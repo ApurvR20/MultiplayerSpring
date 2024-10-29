@@ -1,0 +1,12 @@
+Minimum Viable Products
+
+- Two players can connect to a room
+    - How do I build a room?
+        - What is a 'room'? : A room could be an online session that both players connect to.
+- A game screen loads up for the player
+- A countdown of 5 seconds starts, after a ball is released in a random direction
+- The ball bounces up and down between two paddles
+- Player can control their paddle by arrow keys
+- Each miss is counted on a scoreboard
+- The player hitting 5 misses first, loses
+- The game displays a win screen for the winner, and a loss screen for the loser.
