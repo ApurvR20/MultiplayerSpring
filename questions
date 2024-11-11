@@ -1,0 +1,9 @@
+what is 'this' operator in java?
+
+read publisher-subscriber model https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
+
+What does this mean : "Upon receiving the message and extracting the name, the service will process it by creating a greeting and publishing that greeting on a separate queue to which the client is subscribed. The greeting will also be a JSON object, which as the following listing shows:" 
+
+"Spring will use the Jackson JSON library to automatically marshal instances of type Greeting into JSON."
+
+What are annotations?
