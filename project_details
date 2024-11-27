@@ -1,4 +1,13 @@
-Minimum Viable Products
+How to?
+
+- Use decomposition
+- Research portions of project
+- Then look up how to do it
+- Do not worry about complexity. The more time I invest, the better I get. It is about time investment, not results.
+- Code, test, rinse and repeat
+
+-------------------------------------------------------
+Minimum Viable Product
 
 - Two players can connect to a room
     - How do I build a room?
@@ -13,3 +22,14 @@ Minimum Viable Products
 - The game displays a win screen for the winner, and a loss screen for the loser.
 
 need to problems even smaller
+
+Scope Creep
+
+- should the ball gain speed on hitting the paddle?
+---------------------------------------------------------
+
+Questions
+
+- Backend
+    - How do I make a room in Spring Boot?
+
